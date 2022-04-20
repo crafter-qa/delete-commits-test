@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>10d2</objectGroupId>
+	<objectId>10d29a76-a614-0322-12c4-1e22e103f480</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;three&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<internal-name>three</internal-name>
+	<title_t/>
+	<subject_t>three</subject_t>
+	<author_s>three</author_s>
+	<summary_t>three</summary_t>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<image_s/>
+	<categories_o>	<item>	<key>entertainment</key>
+	<value_smv>Entertainment</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments_o>
+	<file-name>index.xml</file-name>
+	<folder-name>three</folder-name>
+	<createdDate>2022-04-20T14:57:44.473Z</createdDate>
+	<createdDate_dt>2022-04-20T14:57:44.473Z</createdDate_dt>
+	<lastModifiedDate>2022-04-20T14:57:44.473Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-04-20T14:57:44.473Z</lastModifiedDate_dt>
+	<date_dt>2022-04-20T00:00:00.000Z</date_dt>
+	<date_dt_tz>UTC</date_dt_tz>
+</page>
